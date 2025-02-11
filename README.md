@@ -9,7 +9,10 @@ Setup and installations
 Get [SambaNova](https://cloud.sambanova.ai/?utm_source=freeman-forrest&utm_medium=x&utm_campaign=sambanova-february&utm_term=dailydosedatascience&utm_content=deepseek) API Key:
 
 Go to [SambaNova](https://cloud.sambanova.ai/?utm_source=freeman-forrest&utm_medium=x&utm_campaign=sambanova-february&utm_term=dailydosedatascience&utm_content=deepseek) and sign up for an account.
-Once you have an account, go to the API Key page and copy your API key.
+
+Once you have an account, 
+go to the API Key page and copy your API key.
+
 Paste your API key by creating a .env file as shown below:
 SAMBANOVA_API_KEY=your_api_key
 
